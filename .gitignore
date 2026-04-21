@@ -1,0 +1,9 @@
+spotify_million_playlist_dataset/
+*.parquet
+*.json
+.ipynb_checkpoints/
+__pycache__/
+mlruns/
+*.joblib
+*.npz
+.DS_Store
